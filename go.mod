@@ -1,6 +1,6 @@
 module github.com/bluesky4047/golang-to-do-api
 
-go 1.25.2
+go 1.25
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect

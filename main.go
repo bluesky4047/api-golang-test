@@ -23,6 +23,8 @@ func main() {
 		})
 	})
 
+	// Test
+	
 	//membuat route get all posts
 	router.GET("/api/posts", controllers.FindPosts)
 
